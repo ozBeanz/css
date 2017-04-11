@@ -1,2 +1,2 @@
 # css
-css repository
+css repository for ozBeanz web assets
