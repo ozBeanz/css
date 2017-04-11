@@ -2,6 +2,11 @@
 
 [Theme Color Stylesheet]
 
+ozBeanz Cloud Blue Customised Colour Style Sheet for CloudServer Template
+
+To use this file it must be called theme-color-12.css and called in as the custom style sheet in the 
+html header
+
 Project: CloudServer - Responsive HTML5 Technology, Web Hosting and WHMCS Template
 Version: 1.2
 Author : themelooks.com
@@ -40,7 +45,7 @@ a.login-button.btn.btn-default,
 .ca-icon i.fa,
 .ca-holder a.btn:hover,
 .ca-holder a.btn:focus {
-    color: #D48B91;
+    color: #0091c9;
 }
 
 /*------------------------------------*\
@@ -98,14 +103,14 @@ a.comment-reply,
 #contactForm .submit-button,
 .ca-holder a.btn,
 #backToTop a {
-    background-color: #D48B91;
+    background-color: #0091c9;
 }
 
 /*------------------------------------*\
     BACKGROUND COLOR 'important'
 \*------------------------------------*/
 #fakeLoader {
-    background-color: #D48B91 !important;
+    background-color: #0091c9 !important;
 }
 
 /*------------------------------------*\
@@ -133,7 +138,7 @@ a.comment-reply,
 .post-social-links li a:hover,
 .post-comment-form-group .form-control.submit-btn,
 .contact-social-links li a:hover {
-    border-color: #D48B91;
+    border-color: #0091c9;
 }
 
 /*------------------------------------*\
@@ -141,7 +146,7 @@ a.comment-reply,
 \*------------------------------------*/
 .features-tab--nav ul li.active:before,
 #vpsSlider .ui-slider-handle em:after {
-    border-top-color: #D48B91;
+    border-top-color: #0091c9;
 }
 
 /*------------------------------------*\
@@ -149,12 +154,12 @@ a.comment-reply,
 \*------------------------------------*/
 .banner--slider-nav ul li:hover:before,
 .banner--slider-nav ul li.active:before {
-    border-bottom-color: #D48B91;
+    border-bottom-color: #0091c9;
 }
 
 /*------------------------------------*\
     BORDER LEFT COLOR
 \*------------------------------------*/
 .faq-categories ul li a:before {
-    border-left-color: #D48B91;
+    border-left-color: #0091c9;
 }
